@@ -10,4 +10,6 @@ are bash , c and js
 
 3.Collaboration is the base of a company 
 create a branch named 'update_script' 
+4. Collaboration : be up to date
+
 
